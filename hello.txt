@@ -1,1 +1,2 @@
-dwqdwqdqw
+git checkout -b develop - создать ветку
+git checkout develop - зайти на ветку
